@@ -20,7 +20,7 @@ for character in l[1:]:
        move += 1
 
 for character in l[move:]:
-    ++count
+    count += 1
     if character == l[count-1]:
         D += 1
     else:

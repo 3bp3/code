@@ -1,1 +1,1 @@
-Course Code
+part of Course Code

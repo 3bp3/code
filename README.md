@@ -1,1 +1,1 @@
-course code
+Course Code
